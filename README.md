@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://i.ibb.co.com/ScWqQQZ/IMG-20231020-153755-removebg-preview-1.png"  />
+</div>
+
+###
+
 <h1 align="left">I'm Jahid Hasan</h1>
 
 ###
@@ -13,7 +19,7 @@
 <p align="left">I am a passionate Frontend Developer with experience in building dynamic and responsive web applications. I specialize in HTML, CSS, JavaScript, and I have a solid understanding of server-side technologies like Node.js and MongoDB. I enjoy creating interactive user interfaces and continuously improving my skills to build better web experiences.<br><br>Currently, I am exploring Node.js and MongoDB to enhance my backend development capabilities and create more scalable and efficient applications.</p>
 
 ###
-<hr/>
+
 <p align="left">🔭 I’m currently exploring Node.js and MongoDB.<br>🌱 Always learning new technologies and improving my coding skills.<br>⚡ Passionate about building responsive, user-friendly web applications.</p>
 
 ###
