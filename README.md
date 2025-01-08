@@ -9,7 +9,7 @@
 <h3 align="left">About me</h3>
 
 ###
-
+<div style="border-bottom:1px;"></div>
 <p align="left">I am a passionate Frontend Developer with experience in building dynamic and responsive web applications. I specialize in HTML, CSS, JavaScript, and I have a solid understanding of server-side technologies like Node.js and MongoDB. I enjoy creating interactive user interfaces and continuously improving my skills to build better web experiences.<br><br>Currently, I am exploring Node.js and MongoDB to enhance my backend development capabilities and create more scalable and efficient applications.</p>
 
 ###
