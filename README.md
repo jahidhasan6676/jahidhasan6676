@@ -9,15 +9,15 @@
 <h3 align="left">About me</h3>
 
 ###
-<div style="border-bottom:1px;"></div>
+
 <p align="left">I am a passionate Frontend Developer with experience in building dynamic and responsive web applications. I specialize in HTML, CSS, JavaScript, and I have a solid understanding of server-side technologies like Node.js and MongoDB. I enjoy creating interactive user interfaces and continuously improving my skills to build better web experiences.<br><br>Currently, I am exploring Node.js and MongoDB to enhance my backend development capabilities and create more scalable and efficient applications.</p>
 
 ###
-
+<hr/>
 <p align="left">🔭 I’m currently exploring Node.js and MongoDB.<br>🌱 Always learning new technologies and improving my coding skills.<br>⚡ Passionate about building responsive, user-friendly web applications.</p>
 
 ###
-
+<hr/>
 <h3 align="left">I code with</h3>
 
 ###
@@ -37,7 +37,7 @@
 </div>
 
 ###
-
+<hr/>
 <h3 align="left">Social Links</h3>
 
 ###
@@ -51,7 +51,7 @@
 </div>
 
 ###
-
+<hr/>
 <h3 align="left">Stats</h3>
 
 ###
@@ -64,11 +64,5 @@
 
 ###
 
-<h3 align="left">My Contributions</h3>
 
-###
-
-<img src="https://raw.githubusercontent.com/jahidhasan6676/jahidhasan6676/output/snake.svg" alt="Snake animation" />
-
-###
 
