@@ -3,7 +3,7 @@
 ###
 
 <h4 align="left">Frontend Developer</h4>
-
+<hr/>
 ###
 
 <h3 align="left">About me</h3>
