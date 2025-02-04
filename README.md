@@ -1,10 +1,10 @@
 <div align="right">
-  <img height="200" src="https://i.ibb.co.com/5hnGpYZ9/Black-Gradient-Minimalist-Corporate-Business-Personal-Profile-New-Linked-In-Banner-1.png"  />
+  <img height="200" src="https://i.ibb.co.com/7d8vqKbD/github-banner.gif"  />
 </div>
 
 ###
 
-<h1 align="left">I'm Jahid Hasan</h1>
+<h2 align="left">I'm Jahid Hasan</h2>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">About me</h3>
+<h2 align="left">About me</h2>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">I code with</h3>
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="left">Social Links</h3>
+<h2 align="left">Social Links</h2>
 
 ###
 
@@ -58,16 +58,16 @@
 
 ###
 
-<h3 align="left">Stats</h3>
+<h2 align="left">Stats</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jahidhasan6676&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=jahidhasan6676&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jahidhasan6676&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-
 
 
