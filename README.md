@@ -1,5 +1,5 @@
 <div align="right">
-  <img height="220" src="https://i.ibb.co.com/7d8vqKbD/github-banner.gif"  />
+  <img height="220" src="https://i.ibb.co.com/ccH7qdS0/Linked-In-Banner.jpg"  />
 </div>
 
 ###
