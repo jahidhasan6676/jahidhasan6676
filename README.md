@@ -16,11 +16,11 @@
 
 ###
 
-<p align="left">I am a passionate Frontend Developer with experience in building dynamic and responsive web applications. I specialize in HTML, CSS, JavaScript, and I have a solid understanding of server-side technologies like Node.js and MongoDB. I enjoy creating interactive user interfaces and continuously improving my skills to build better web experiences.<br><br>Currently, I am exploring Node.js and MongoDB to enhance my backend development capabilities and create more scalable and efficient applications.</p>
+<p align="left">Frontend Developer with expertise in React, Tailwind CSS, and JavaScript. Experienced in building responsive, user-focused applications and working with backend technologies such as Node.js, Express.js, MongoDB and Firebase. Currently expanding skills in Next.js to develop scalable full-stack solutions using the MERN stack.</p>
 
 ###
 
-<p align="left">🔭 I’m currently exploring Node.js and MongoDB.<br>🌱 Always learning new technologies and improving my coding skills.<br>⚡ Passionate about building responsive, user-friendly web applications.</p>
+<p align="left">🔭 I’m currently exploring Next.js and Mongoose.<br>🌱 Always learning new technologies and improving my coding skills.<br>⚡ Passionate about building responsive, user-friendly web applications.</p>
 
 ###
 
@@ -34,6 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
